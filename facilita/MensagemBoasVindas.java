@@ -1,0 +1,16 @@
+package facilita;
+
+import javax.swing.JOptionPane;
+
+public class MensagemBoasVindas {
+    
+    public MensagemBoasVindas(){
+        
+        mostrarMensagemBoasVindas();    
+    }
+    
+    private void mostrarMensagemBoasVindas(){
+        JOptionPane.showMessageDialog(null, "Seja bem-vindo ao Facilita");
+    }
+    
+}
