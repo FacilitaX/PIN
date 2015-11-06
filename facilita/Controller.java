@@ -2,6 +2,6 @@ package facilita;
 
 
 
-public class Controller {
-    
+public class Controlador {
+
 }
